@@ -1,2 +1,3 @@
 Welcome to the BaselHack2017 wiki!
-This page can be edited by any github user.
+
+If you sign in to Github you can edit any page.
