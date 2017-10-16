@@ -24,3 +24,20 @@ If interested please contact us via jury-admin@baselhack.ch with the following i
 
 
 thank you!
+
+________________________
+## Confirmed Coaches ##
+
+
+Thomas Berger
+Senior Software Engineer - [bluesky IT-Solutions AG](http://www.bluesky-it.ch)<br>
+
+can coach on: | contact channels:
+------------- | -------------
+Java EE, Adobe AEM, Magnolia | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
+Javascript | github user domberg
+Agile Scrum / Kanban | dominik.berger@bluesky-it.ch
+Teambildung/Issues | 079 276 41 16
+Presentation | skype chaychaya
+
+________________________
