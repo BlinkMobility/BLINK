@@ -41,3 +41,13 @@ Teambildung/Issues | 079 276 41 16
 Presentation | skype chaychaya
 
 ________________________
+Daniel Hasler
+Senior Software Engineer - [bluesky IT-Solutions AG](http://www.bluesky-it.ch)<br>
+
+can coach on: | contact channels:
+------------- | -------------
+Java/JEE, Magnolia, Vaadin | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
+Hazelcast, MongoDB/Atlas, AWS | github user dani72
+Lucene/Solr/Elastic | daniel.hasler@bluesky-it.ch
+Tomcat | 079 604 09 80
+Software Architecture | skype daniel.hasler
