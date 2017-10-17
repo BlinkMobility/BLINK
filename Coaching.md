@@ -29,7 +29,7 @@ ________________________
 ## Confirmed Coaches ##
 
 
-Thomas Berger
+Dominik Berger
 Senior Software Engineer - [bluesky IT-Solutions AG](http://www.bluesky-it.ch)<br>
 
 can coach on: | contact channels:
