@@ -29,7 +29,7 @@ ________________________
 ## Confirmed Coaches ##
 
 
-<img src="https://baselhack.github.io/img/pics/DoBe2.jpeg" width="230" height="270" />
+<img src="https://baselhack.github.io/img/pics/DoBe2.jpeg" width="230" height="270" /> <br>
 Dominik Berger  / Senior Software Engineer - [bluesky IT-Solutions AG](http://www.bluesky-it.ch) <br>
 
 can coach on: | contact channels:
@@ -41,7 +41,7 @@ Teambildung/Issues | 079 276 41 16
 Presentation | skype chaychaya
 
 ________________________
-<img src="https://baselhack.github.io/img/pics/lukas_blackwhite.png" width="230" height="270" />
+<img src="https://baselhack.github.io/img/pics/lukas_blackwhite.png" width="230" height="270" /><br>
 Lukas Haas / LoRaWAN Expert, Initiator of TheThingsNetwork Basel<br>
 
 can coach on: | contact channels:
@@ -68,8 +68,8 @@ Tomcat | 079 604 09 80
 Software Architecture | skype daniel.hasler
 
 ________________________
-<img src="https://www.andreas-martin.com/wp-content/uploads/2017/06/Martin_Andreas_480-SocialMedia-square-474x480.jpg" width="230" height="270" />
-Andreas Martin / Information systems researcher and teacher @ [FHNW]((https://github.com/andreasmartin)) School of Business
+<img src="https://www.andreas-martin.com/wp-content/uploads/2017/06/Martin_Andreas_480-SocialMedia-square-474x480.jpg" width="230" height="270" /> <br>
+Andreas Martin / Information systems researcher and teacher @ [FHNW](www.fhnw.ch/people/andreas-martin) School of Business
 
 
 can coach on: | contact channels:
@@ -83,3 +83,7 @@ Programming and markup languages (Java, PHP, HTML) |
 
 Availability:
   Saturday morning (09:00 - 11:00), Saturday evening (17:00 - 21:00) and Sunday (13:00 – 18:00)
+
+________________________
+
+________________________
