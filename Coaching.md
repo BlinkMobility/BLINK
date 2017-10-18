@@ -4,7 +4,7 @@ You are interested in the BaselHack, you have considerable experience in softwar
 
 A few minimal rules:
 - you are available to any team requesting a slot for ~5-30min consulting
-- your contributions are fully transparent (ideally via the corresponding [github project site](https://github.com/BaselHack/BaselHack2017/projects))
+- your contributions are fully transparent (ideally via issues in the corresponding [github project site](https://github.com/BaselHack))
 
 
 If interested please contact us via jury-admin@baselhack.ch with the following information (which will be published on this page)
