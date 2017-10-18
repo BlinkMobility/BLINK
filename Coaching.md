@@ -12,7 +12,7 @@ If interested please contact us via jury-admin@baselhack.ch with the following i
 * **name**, **photo**, and **professional role** relevant for hackathon: [organizer, coder, artist, ...]
 * **I can coach on**: <br>
    [1-10 keywords, referring to IT and data skills, but also team building and organization, presentation, ...]
-* **preferred contact channel** during the hackathon:  <br>
+* **preferred channel(s)** by which participants can contact you during the hackathon:  <br>
    [_at least one of_:  <br>
       the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J),  <br>
       your github user name,  <br>
