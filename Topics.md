@@ -8,6 +8,7 @@ Need some inspiration?
 * https://github.com/statabs
 
 ***
+
 ### template for a topic description "nearest-free-BS-parking-space"
 **Problem:**
 The search for available parking space frequently wastes time and resources, if required to enter densely constructed areas by car.
@@ -19,23 +20,24 @@ The city of Basel provides real-time information on the occupation of the majori
 We propose to incorporate this information into a mobile routing app (eg https://developers.google.com/maps/documentation/directions/intro?hl=en) to guide users to the closest available parking space, including information on parking fees, and permitted duration of occupation. An additional innovative aspect is a proof-of-concept inclusion of open space parking. The topic includes the ad-hoc monitoring of selected parking spots with IoT-enabled smart parking sensor (eg https://www.pnicorp.com/placepod/ ) and their integration into a LoRaWAN network.
 
 ***
-## Projekt: Zeitvorsorge als 4. Säule der Altersvorsorge
+
+## Project: Time-based prevoyance as the fourth pillar of old-age provision
 
 ### Team
 * Dietrich Rordorf
-* evtl. Roland Brand
-* evtl. Difan Lin
-* und weitere, die gerne dazu stossen möchten.
+* Roland Brand
+* Difan Lin
+* and others who would like to join.
 
 ### Pitch
-In den nächsten 30 Jahren wird die Schweiz 50% mehr Rentner und Rentnerinnen zählen [1]. Die Vorsorgeeinrichtungen (1. bis 3. Säule) sowie der Gesundheitssektor werden dadurch zunehmend belastet. Um dieser neuen finanziellen Belastung zu begegnen, macht die Idee einer freiwilligen, auf Zeitleistung basierten 4. Säule die Runde. In den letzten Monaten wurden dazu an verschiedenen Orten in der Schweiz Vereine gegründet [2]. Bei der Zeitvorsorge können Rentner in den “jüngeren" Jahren Zeitgutschriften sammeln, in dem Sie sich um ältere Rentner kümmern. Später, wenn sie selber auf Hilfe angewiesen sind, können sie diese gesammelten Zeitgutschriften bei den Vereinen wieder einlösen. Die Zeitvorsorge als 4. Säule bringt somit finanzielle Entlastung und fördert die intergenerationelle Gerechtigkeit.
+Over the next 30 years, Switzerland will face up to 50% more pensioners [1]. The institutions and funds for old-age provision (AVH, BVG, 3rd pillar) and the healthcare sector are increasingly in financial distress. To counter this new financial burden, the idea of ​​a voluntary, time-based fourth pillar is imposing itself. For this purpose, several associations have been established in Switzerland recently [2]. The system of time-based prevoyance is simple: retirees can collect time credits in the "younger" years during which they take care of elderly retirees. Later, once they themselves are dependent on help, they can redeem the collected time credits at local associations. This time-based prevoyance provides financial relief and promotes intergenerational justice.
 
-### Ziel am BaselHack 
-Um die Zeitvorsorge effizient zu gestalten, ist ein IT-basiertes, dezentrales Verwaltungssystem nötig, welches den Vereinen die einfache Verwaltung der Zeitgutschriften ermöglicht. Ziel am BaselHack ist eine Proof-of-Concept Lösung für das Erstellen und Entwerten von Zeitgutschriften. Um Betrug zu vermeiden sollen die wichtigsten Metadaten der Zeitgutschriften in eine Blockchain gespeichert werden.
+### Goal at the BaselHack
+Develop an IT-based, decentralized administration system to make time-keeping efficient, and allow the participating associations to easily manage time credits. During the BaselHack, we aim to deliver a proof-of-concept solution for creating, managing, and redeeming time credits. To avoid fraud, important pieces of metadata relating to the time credits will be stored in a blockchain / wallet.
 
-### Referenzen
-1. Bundesamt für Statistik. Szenarien zur Bevölkerungsentwicklung der Kantone der Schweiz 2015-2045. http://bit.ly/2xyWCkn
-2. Verein KISS Schweiz. Die Zeitvorsorge als Ergänzung zur Altersvorsorge. http://bit.ly/2xyQuZG
+### References
+1. Federal Office for Statistics. Scenarios for the population development of the cantons of Switzerland 2015-2045. http://bit.ly/2xyWCkn
+2. Association KISS Switzerland. Time prevoyance as a supplement to pension funds. http://bit.ly/2xyQuZG
 
 ***
 
