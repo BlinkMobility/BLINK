@@ -13,9 +13,10 @@ For cars there is parking in public parking houses Ruchfeld or Leimgrube (not fr
 *  Whatever you need that makes you feel comfortable an entire Weekend
 
 **Food and Drinks**
+
 Will be provided for you. In case you need anything special, please don't hesitate to bring it. 
 
-**- Code of Conduct**
+** Code of Conduct**
 All attendees of BaselHack must agree and respect the "BaselHack Community Code of Conduct" of being open, considerate and respectful. Please find the details here: https://github.com/BaselHack/verein/wiki/Code-of-Conduct-(Verhaltenskodex)
 
 **Topics**
