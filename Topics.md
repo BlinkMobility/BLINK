@@ -1,5 +1,7 @@
 Here you can publish your ideas for a topic you want to pitch and work on at the BaselHack 2017.
 
+Disclaimer: if you have trouble editing this site, please send your proposal to info@baselhack.ch
+
 Need some inspiration?
 * https://github.com/BaselHack/verein/wiki/Topics
 * https://opendata.swiss/de/organization/kanton-basel-stadt
