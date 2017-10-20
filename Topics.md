@@ -21,19 +21,13 @@ We propose to incorporate this information into a mobile routing app (eg https:/
 
 ***
 
-## Project: Time-based prevoyance as the fourth pillar of old-age provision
-
-### Team
-* Dietrich Rordorf
-* Roland Brand
-* Difan Lin
-* and others who would like to join.
+## Time-based prevoyance as the fourth pillar of old-age provision
 
 ### Pitch
-Over the next 30 years, Switzerland will face up to 50% more pensioners [1]. The institutions and funds for old-age provision (AVH, BVG, 3rd pillar) and the healthcare sector are increasingly in financial distress. To counter this new financial burden, the idea of ​​a voluntary, time-based fourth pillar is imposing itself. For this purpose, several associations have been established in Switzerland recently [2]. The system of time-based prevoyance is simple: retirees can collect time credits in the "younger" years during which they take care of elderly retirees. Later, once they themselves are dependent on help, they can redeem the collected time credits at local associations. This time-based prevoyance provides financial relief and promotes intergenerational justice.
+Over the next 30 years, Switzerland will face up to 50% more pensioners [1]. The institutions and funds for old-age provision (AVH, BVG, 3rd pillar) and the healthcare sector are increasingly under financial stress. To counter this trend, several associations have been established in Switzerland to offer a voluntary, time-based 4th pillar [2]: retirees can collect time credits in the "younger" years during which they take care of elderly retirees (e.g. go shopping, take them for a walk, etc.). Later, once they themselves are dependent on help, they can redeem the collected time credits at local associations. This time-based prevoyance provides financial relief for old-aged provision, promotes intergenerational justice, and helps elderly staying in their homes longer.
 
 ### Goal at the BaselHack
-Develop an IT-based, decentralized administration system to make time-keeping efficient, and allow the participating associations to easily manage time credits. During the BaselHack, we aim to deliver a proof-of-concept solution for creating, managing, and redeeming time credits. To avoid fraud, important pieces of metadata relating to the time credits will be stored in a blockchain / wallet.
+Develop a system to make time-keeping efficient, and allow the participating associations to easily manage time credits. We aim to deliver a proof-of-concept solution for creating, managing, and redeeming time credits. To avoid fraud, important pieces of metadata relating to the time credits will be stored in a blockchain / wallet.
 
 ### References
 1. Federal Office for Statistics. Scenarios for the population development of the cantons of Switzerland 2015-2045. http://bit.ly/2xyWCkn
