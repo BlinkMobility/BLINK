@@ -5,11 +5,12 @@ You are interested in the BaselHack, you have considerable experience in softwar
 A few minimal rules:
 - you are available to any team requesting a slot for ~5-30min consulting
 - your contributions are fully transparent (ideally via issues in the corresponding [github project site](https://github.com/BaselHack))
+- equal opportunity statement: female candidates and soft skills experts especially encouraged ...
 
 
 If interested please contact us via jury-admin@baselhack.ch with the following information (which will be published on this page)
 
-* **name**, **photo**, and **professional role** relevant for hackathon: [organizer, coder, artist, ...]
+* **name**, **photo**, and **professional role** relevant for hackathon: [organizer, coder, **artist**, ...]
 * **I can coach on**: <br>
    [1-10 keywords, referring to IT and data skills, but also team building and organization, presentation, ...]
 * **preferred channel(s)** by which participants can contact you during the hackathon:  <br>
@@ -19,7 +20,7 @@ If interested please contact us via jury-admin@baselhack.ch with the following i
       e-mail,  <br>
       cell phone number,  <br>
       message board on paper during hackathon,  <br>
-      homing pigeon ...
+      homing pigeon  ![twitter](https://github.com/BaselHack/BaselHack.github.io/blob/master/img/pigeon.png) [BaselHack](https://twitter.com/BaselHack)
 * your **availability** during the hackathon:(actual demands difficult to predict)
 
 
