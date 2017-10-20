@@ -8,7 +8,7 @@ For cars there is parking in public parking houses Ruchfeld or Leimgrube (not fr
 
 **What to bring with you**
 * your mobile phone for Internet Access
-* you bring the necessery hardware
+* bring the necessery hardware
 * if you provide the topic you bring the data
 *  Whatever you need that makes you feel comfortable an entire Weekend
 
