@@ -91,7 +91,7 @@ Jutta Jerlich  / Innovation Consultant and Business Developer, Initiator FuckUp 
 
 Can coach on: | contact channels:
 ------------- | -------------
-Market, Business Modell, | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
+Product Design, Market, Business Modell | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
 Overcoming roadblocks / crisis management | jutta.jerlich@gmail.com
 Collaboration / Team / Issues | 078 765 49 69
 Pitching | skype jutta_jerlich
