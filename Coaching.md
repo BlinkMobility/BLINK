@@ -40,6 +40,8 @@ Javascript | github user [domberg](https://github.com/domberg)
 Agile Scrum / Kanban | dominik.berger@bluesky-it.ch
 Teambildung/Issues | 079 276 41 16
 Presentation | skype chaychaya
+Availability:
+  Saturday morning (09:00 - 11:00), Saturday evening (15:00 - 19:30) and Sunday (14:00 – 18:00)
 
 ________________________
 <img src="https://baselhack.github.io/img/pics/lukas_blackwhite.png" width="230" height="270" /><br>
