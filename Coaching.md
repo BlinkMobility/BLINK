@@ -86,7 +86,7 @@ Availability:
   Saturday morning (09:00 - 11:00), Saturday evening (17:00 - 21:00) and Sunday (13:00 – 18:00)
 
 ________________________
-<img src="https://www.xing.com/image/c_f_5_20d4b3328_5818732_4/jutta-jerlich-foto.1024x1024.jpg width="230"/> <br>
+<img src="https://avatars3.githubusercontent.com/u/29916388?s=400&u=85b84fe20debb99b8d1a693721f07d7c4b37e14d&v=4" width="230"/> <br>
 Jutta Jerlich  / Innovation Consultant and Business Developer, Initiator FuckUp Nights Basel<br>
 
 Can coach on: | contact channels:
