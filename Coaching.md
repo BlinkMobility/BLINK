@@ -7,7 +7,7 @@ Participants are encouraged to contact the seasoned specialists below, via direc
 ________________________
 ## Confirmed Coaches for the BaselHack 2017##
 
-<img src="https://baselhack.github.io/img/pics/DoBe2.jpeg" width="230" height="270" /> <br>
+<img src="https://baselhack.github.io/img/pics/DoBe2.jpeg" width="230" /> <br>
 Dominik Berger  / Senior Software Engineer - [bluesky IT-Solutions AG](http://www.bluesky-it.ch) <br>
 
 can coach on: | contact channels:
