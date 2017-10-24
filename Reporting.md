@@ -1,2 +1,2 @@
 Here is the place where reports, articles, snapshots and links from and about the very first #BaselHack will be published:
-Take part in ideating and creating smart solutions for Basel!
+Take part in ideating and creating smart solutions for Basel and let others know about it!
