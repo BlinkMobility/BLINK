@@ -22,7 +22,7 @@ Availability:
   Saturday morning (09:00 - 11:00), Saturday evening (15:00 - 19:30) and Sunday (14:00 – 18:00)
 
 ________________________
-<img src="https://baselhack.github.io/img/pics/lukas_blackwhite.png" width="230" height="270" /><br>
+<img src="https://baselhack.github.io/img/pics/lukas_blackwhite.png" width="230" /><br>
 Lukas Haas / LoRaWAN Expert, Initiator of TheThingsNetwork Basel<br>
 
 can coach on: | contact channels:
