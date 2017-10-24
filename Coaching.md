@@ -49,7 +49,7 @@ Tomcat | 079 604 09 80
 Software Architecture | skype daniel.hasler
 
 ________________________
-<img src="https://www.andreas-martin.com/wp-content/uploads/2017/06/Martin_Andreas_480-SocialMedia-square-474x480.jpg" width="230" height="270" /> <br>
+<img src="https://www.andreas-martin.com/wp-content/uploads/2017/06/Martin_Andreas_480-SocialMedia-square-474x480.jpg" width="230" /> <br>
 Andreas Martin / Information systems researcher and teacher @ [FHNW](www.fhnw.ch/people/andreas-martin) School of Business
 
 
@@ -67,7 +67,7 @@ Availability:
 
 ________________________
 <img src="https://avatars3.githubusercontent.com/u/29916388?s=400&u=85b84fe20debb99b8d1a693721f07d7c4b37e14d&v=4" width="230"/> <br>
-Jutta Jerlich  / Innovation Consultant and Business Developer, Initiator FuckUp Nights Basel<br>
+Jutta Jerlich  / Innovation Consultant and Business Developer, Educator VUT, Initiator FuckUp Nights Basel<br>
 
 Can coach on: | contact channels:
 ------------- | -------------
