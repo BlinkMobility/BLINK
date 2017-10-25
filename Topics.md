@@ -3,6 +3,7 @@ Here you can publish your ideas for a topic you want to pitch and work on at the
 _**Disclaimer**_: if you have trouble editing this site, please send your proposal to info@baselhack.ch
 
 Need some inspiration? 
+
 **Local Data for local Applications:**
 *  **https://github.com/BaselHack/BaselHack2017/tree/master/data**
 
