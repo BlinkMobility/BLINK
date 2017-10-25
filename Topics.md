@@ -1,11 +1,18 @@
-Here you can publish your ideas for a topic you want to pitch and work on at the BaselHack 2017.
+**You have a topic?**
+
+If you have an idea for a topic you want to pitch and work on at the BaselHack 2017, you can add it here. It is optional to publish them beforehand, you can also just pitch them on Saturday morning. By publishing it here, you give other participants the possibility to already get familiar with it.
+
+To give you an idea on how such a topic could look like, we prepared one: [nearest-free-BS-parking-space](#template-for-a-topic-description-nearest-free-bs-parking-space)
+
+Just add your topic to the end of this page.
+
+**Need some inspiration?**
+
+* Local Data for Local Applications:
+  *  **https://github.com/BaselHack/BaselHack2017/tree/master/data**
+
 
 _**Disclaimer**_: if you have trouble editing this site, please send your proposal to info@baselhack.ch
-
-Need some inspiration? 
-
-**Local Data for Local Applications:**
-*  **https://github.com/BaselHack/BaselHack2017/tree/master/data**
 
 ***
 
