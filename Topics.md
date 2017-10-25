@@ -6,6 +6,7 @@ Need some inspiration?
 * https://github.com/BaselHack/verein/wiki/Topics
 * https://opendata.swiss/de/organization/kanton-basel-stadt
 * https://github.com/statabs
+* **https://github.com/BaselHack/BaselHack2017/tree/master/data**
 
 ***
 
