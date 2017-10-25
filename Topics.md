@@ -4,7 +4,7 @@ _**Disclaimer**_: if you have trouble editing this site, please send your propos
 
 Need some inspiration? 
 
-**Local Data for local Applications:**
+**Local Data for Local Applications:**
 *  **https://github.com/BaselHack/BaselHack2017/tree/master/data**
 
 ***
