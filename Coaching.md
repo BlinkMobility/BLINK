@@ -88,7 +88,7 @@ AI, DeepLearning | the #coaches channel of [slack](https://baselhack.slack.com/m
 IoT, Cloud | github user [romeokienzler](https://github.com/romeokienzler)
 ApacheSpark, R | romeo dHoT kienzler aEt ch dHoT ibm dHoT com
 Blockchain | 079 698 56 72 (Only via [Signal Messenger](https://signal.org/) (recommended by Edward Snowden))
-Social Media: | twitter @romeokienzler youtube https://www.youtube.com/channel/UC_zIqSWu-yQcBAywLtHDAfg
+Software Engineering / Architecture | twitter @romeokienzler [youtube](https://www.youtube.com/channel/UC_zIqSWu-yQcBAywLtHDAfg)
 
 Availability:
   Saturday morning (09:00 - 11:00 tentative), Saturday evening (21:00 - 23:30)
