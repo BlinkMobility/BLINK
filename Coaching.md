@@ -94,6 +94,20 @@ Availability:
   Saturday morning (09:00 - 11:00 tentative), Saturday evening (21:00 - 23:30)
 
 ________________________
+<img src="https://meteo.duw.unibas.ch/typo3temp/_processed_/csm_PSAgA-27_comic_01_3263756790.jpg" width="230" /> <br>
+Robert Spirig / PhD Candidate
+
+can coach on: | contact channels:
+------------- | -------------
+measuerement, data analysis, wifihotspot / networking | r.spirig@unibas.ch
+bash / linux | github user [spirrobe](https://github.com/spirrobe)
+sensorics / meteorology | [twitter](https://twitter.com/spirro00)
+various IT / time series | 
+
+Availability:
+  Saturday and Sunday during day
+________________________
+
 
 <img src="https://meteo.duw.unibas.ch/typo3temp/_processed_/csm_PSAgA-27_comic_01_3263756790.jpg" width="230" /> <br>
 Robert Spirig / PhD Candidate
