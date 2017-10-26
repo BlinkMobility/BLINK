@@ -87,7 +87,7 @@ can coach on: | contact channels:
 AI, DeepLearning | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
 IoT, Cloud | github user [romeokienzler](https://github.com/romeokienzler)
 ApacheSpark, R | romeo dHoT kienzler aEt ch dHoT ibm dHoT com
-Blockchain | 079 698 56 72 (Only via Signal Messenger (recommended by Edward Snowden))
+Blockchain | 079 698 56 72 (Only via [Signal Messenger](https://signal.org/) (recommended by Edward Snowden))
 Social Media: | twitter @romeokienzler youtube https://www.youtube.com/channel/UC_zIqSWu-yQcBAywLtHDAfg
 
 Availability:
