@@ -85,9 +85,9 @@ Romeo Kienzler  / Human - IBM Watson IoT <br>
 can coach on: | contact channels:
 ------------- | -------------
 AI, DeepLearning | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
-IoT, Cloud | github user [domberg](https://github.com/domberg)
-ApacheSpark, R | romeo.kienzler@ch.ibm.com
-Blockchain | 079 698 56 72
+IoT, Cloud | github user [romeokienzler](https://github.com/romeokienzler)
+ApacheSpark, R | romeo dHoT kienzler aEt ch dHoT ibm dHoT com
+Blockchain | 079 698 56 72 (Only via Signal Messenger (recommended by Edward Snowden))
 Social Media: | twitter @romeokienzler youtube https://www.youtube.com/channel/UC_zIqSWu-yQcBAywLtHDAfg
 
 Availability:
