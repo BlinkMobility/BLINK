@@ -79,6 +79,19 @@ Pitching | skype jutta_jerlich
 Availability:
   Around Saturday (09:00 – 18:00) and Sunday (10:00 – 18:00)
 ________________________
+<img src="https://meteo.duw.unibas.ch/typo3temp/_processed_/csm_PSAgA-27_comic_01_3263756790.jpg" width="230" /> <br>
+Robert Spirig / PhD Candidate
+
+can coach on: | contact channels:
+------------- | -------------
+measuerement, data analysis, wifihotspot / networking | r.spirig@unibas.ch
+bash / linux | github user [spirrobe](https://github.com/spirrobe)
+sensorics / meteorology | [twitter](https://twitter.com/spirro00)
+various IT / time series | 
+
+Availability:
+  Saturday and Sunday during day
+________________________
 
 You are interested in the BaselHack, you have considerable experience in software development and/or the Basel area, and you would like to contribute in other ways than joining a single hacking team?
 
