@@ -79,16 +79,16 @@ Pitching | skype jutta_jerlich
 Availability:
   Around Saturday (09:00 – 18:00) and Sunday (10:00 – 18:00)
 ________________________
-<img src="https://baselhack.github.io/img/pics/DoBe2.jpeg" width="230" /> <br>
+<img src="https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/21587288_792065327644851_1053364276206864921_o.jpg?oh=62787f56ec174c23e44c7145ce44f6af&oe=5A7EC640" width="230" /> <br>
 Romeo Kienzler  / Human - IBM Watson IoT <br>
 
 can coach on: | contact channels:
 ------------- | -------------
-AI, DeepLearning, ApacheSpark, R | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
+AI, DeepLearning | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
 IoT, Cloud | github user [domberg](https://github.com/domberg)
- | romeo.kienzler@ch.ibm.com
- | 079 698 56 72
-Presentation | twitter @romeokienzler youtube https://www.youtube.com/channel/UC_zIqSWu-yQcBAywLtHDAfg
+ApacheSpark, R | romeo.kienzler@ch.ibm.com
+Blockchain | 079 698 56 72
+Social Media: | twitter @romeokienzler youtube https://www.youtube.com/channel/UC_zIqSWu-yQcBAywLtHDAfg
 
 Availability:
   Saturday morning (09:00 - 11:00 tentative), Saturday evening (21:00 - 23:30)
