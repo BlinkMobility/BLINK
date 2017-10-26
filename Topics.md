@@ -41,5 +41,15 @@ Develop a system to make time-keeping efficient, and allow the participating ass
 2. Association KISS Switzerland. Time prevoyance as a supplement to pension funds. http://bit.ly/2xyQuZG
 
 ***
+## For safety and more efficient traffic in Basel
+**Problem:**
+In Basel, the traffic situation is getting worse and worse every year. By means of a targeted evaluation of the traffic data, the traffic flow of the city can be optimized.
 
+**Data resources:**
+The city of Basel provides Radar data from more than 300 Streets. How many cars and other vehicles passed in which speed. How high is the transgression rate of each street? In which streets is the tendency to drive too fast? Which are the busiest and most dangerous streets in the City?
+
+**proposed hack topic:**
+There are different approaches. On one hand it is interesting to show the traffic situation graphically (for example categorisation of streets) and enable the inhabitants to choose a better route (kind of self-regulation). On the other hand, it is possible to improve the cantonal processes with software so that traffic can be better distributed through the city. More information at saturday :)
+
+***
 -> complement with YOUR ideas: ...
