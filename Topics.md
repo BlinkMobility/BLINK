@@ -80,6 +80,7 @@ https://www.youtube.com/watch?v=JI8AMRbqY6w
 
 **Proposed hack topic:**
 An ad-blocker for the real world. Create a mobile AR app or webpage which detects “information” such as text or branding and blocks it out.
+(Or replace the information with alternative messages or art.)
 
 **Tech resources:**
 Android vision API: https://developers.google.com/vision/text-overview
