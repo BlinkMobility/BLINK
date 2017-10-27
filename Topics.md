@@ -117,7 +117,7 @@ Any Content API, such as...
   
 
 ***
-**Internet of things / Serverless cloud computing - Kegbot I/O**
+### Internet of things / Serverless cloud computing - Kegbot I/O
 
 Adobe’s project to be hacked is a fun educational project within the trending topics Internet of things and serverless cloud computing called the Kegbot I/O. 
 It demands your creativity and is challenging on various difficulty levels from low to high.
@@ -135,7 +135,8 @@ Your challenge will be to come up with new features and creative and valid use c
 
 **Entry points for Hacking:**
 1. Leverage the available data in the server, collected by the open source kegbot library: https://kegbot.org/docs/api/
-2. Leverage Adobe I/O Runtime to run serverless functions (e.g. connector for the kegbot API in #1, webhook for kegbot events, web actions)
+2. Leverage Adobe I/O Runtime to run serverless functions (e.g. connector for the kegbot API 
+in #1, webhook for kegbot events, web actions)
 3. Enhance Kegtab (Android app) with UI of the new feature
 * Docs: https://github.com/Kegbot/kegboard
 * Sources: https://github.com/Kegbot/kegbot-android
