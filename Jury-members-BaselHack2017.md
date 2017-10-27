@@ -41,8 +41,7 @@ Hackathons are a great way to experiment with a new programming language or API.
 
 ____
 
-
-++ TBA
+Urs Gehrig
 
 
 

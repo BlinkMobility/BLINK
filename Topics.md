@@ -51,5 +51,99 @@ The city of Basel provides Radar data from more than 300 Streets. How many cars 
 **proposed hack topic:**
 There are different approaches. On one hand it is interesting to show the traffic situation graphically (for example categorisation of streets) and enable the inhabitants to choose a better route (kind of self-regulation). On the other hand, it is possible to improve the cantonal processes with software so that traffic can be better distributed through the city. More information at saturday :)
 
+## BaselStat - An Open Data Search Engine
+ 
+Nowadays, an enormous amount of data is generated every day. Unfortunately, this data is mostly available on different sources and stored in different file formats.
+ 
+ 
+We would like to create our own open data search engine with all available statistical data from the Kanton Basel Stadt.
+Thus, the exploration of these records should become easy and intuitive, as if one would be googeling any topic.
+ 
+ 
+The public API would allow other developers to create their own applications. Of course our frontend also retrieves its data from the public API.
+ 
+ 
+Additionally to our Web Application we would like to create a visualisation by using the Microsoft HoloLens.
+ 
+
+Team:
+* Denise Bauman
+* Fabrizio Parrillo
+* Quentin Garnier
+* ... you?  Join our team and clone the [repo](https://github.com/FUUbi/BaselStat).
+***
+
+### They Live AR
+**Problem:**
+“The System” is turning our brains to mush with an overload of branding, advertisements and information in the public space. Can technology save us?
+https://www.youtube.com/watch?v=JI8AMRbqY6w
+
+**Proposed hack topic:**
+An ad-blocker for the real world. Create a mobile AR app or webpage which detects “information” such as text or branding and blocks it out.
+(Or replace the information with alternative messages or art.)
+
+**Tech resources:**
+* Android vision API: https://developers.google.com/vision/text-overview
+* Chrome text API: https://paul.kinlan.me/detecting-text-in-an-image/
+* Tesseract: http://tesseract.projectnaptha.com/
+* Browser OCR: https://kdzwinel.github.io/JS-OCR-demo/
+* Browser based tracking: https://trackingjs.com/
+
+**Prior art:**
+* https://www.wired.com/2015/01/adblock-real-life-adblock-real-life/
+* https://creators.vice.com/en_us/article/3d5bg3/this-augmented-reality-app-blocks-advertisements-with-digital-art
+
+***
+
+### Chat Visualiser
+**Problem:**
+Chat is utterly useless without a visualiser.
+
+;)
+
+  
+**Proposed hack topic:**
+An “online chat” web application that creates a realtime visual experience based on the contents of the chat. The app retrieves (hopefully) relevant images, videos, webpages, maps, emoticons, icons, or other content and displays them in a “visualiser panel” adjacent to the chat space.
+(Maybe the core of the system could be used in other contexts than chat, such as live performance.)
+
+**Data resources:**
+Any Content API, such as...
+* OpenGLAM: https://opendata.swiss/de/organization/openglam?res_format=HTML
+* https://www.flickr.com/services/api/explore/flickr.photos.search
+* https://developers.google.com/youtube/v3/docs/search/list#try-it
+* https://unsplash.com/developers
+* https://www.pexels.com/api/
+* https://www.pond5.com/free
+  
+
+***
+### Internet of things / Serverless cloud computing - Kegbot I/O
+
+Adobe’s project to be hacked is a fun educational project within the trending topics Internet of things and serverless cloud computing called the Kegbot I/O. 
+It demands your creativity and is challenging on various difficulty levels from low to high.
+
+**Current Setup:**
+The present setup at the hacking kick-off is a fully functional Kegbot which is a Kegerator (Zapfanlage) linked to an Arduino board and an Android tablet. Once you tap fluid, data is transferred to the linked tablet and is distributed to a slack channel. 
+
+**Challenge:**
+Your challenge will be to come up with new features and creative and valid use cases. You are free to hack whatever cool idea you come up with. 
+
+**FYI**
+* In addition we provide more sensors for your potential use case. 
+* We will have 2 coaches dedicated to this project helping you to get started and during the hack.
+* As all touchpoints are open source this makes it a perfect and fun project to hack at BaselHack!
+
+**Entry points for Hacking:**
+1. Leverage the available data in the server, collected by the open source kegbot library: https://kegbot.org/docs/api/
+2. Leverage Adobe I/O Runtime to run serverless functions (e.g. connector for the kegbot API 
+in #1, webhook for kegbot events, web actions)
+3. Enhance Kegtab (Android app) with UI of the new feature
+* Docs: https://github.com/Kegbot/kegboard
+* Sources: https://github.com/Kegbot/kegbot-android
+* Build tools: Android Studio - https://developer.android.com/studio/index.html 
+4. Hacking around Kegboard (IOT device) to collect more data
+* Docs: https://kegbot.org/docs/kegboard/
+* Sources: https://github.com/Kegbot/kegboard
+* Build tools: Arduino IDE - https://www.arduino.cc/en/Main/Software or PlatformIO - http://platformio.org/ 
 ***
 -> complement with YOUR ideas: ...

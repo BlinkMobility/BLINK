@@ -47,6 +47,10 @@ All attendees of BaselHack must agree and respect the "BaselHack Community Code 
 * all artifacts will be published on github and thus have to be licensed according to githubs open source license suggestion: https://github.com/blog/1530-choosing-an-open-source-license 
 
 
+**Evaluation criteria**
+
+* have fun, great ideas, and convince a jury evaluating these [criteria](https://github.com/BaselHack/BaselHack.github.io/blob/master/evaluation_criteria_BaselHack2017.pdf) 
+
 **Language**
 
 * pitches and final presentation in English
