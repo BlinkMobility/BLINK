@@ -107,8 +107,18 @@ various IT / time series |
 Availability:
   Saturday and Sunday during day
 ________________________
+<img src="https://avatars1.githubusercontent.com/u/8848879?s=400&u=5c78cff34db70f9036ebcf7aa70bc535e2dbd594&v=4" width="230" /> <br>
+Stephan Jüngling / Lecturer Business Information Systems, FHNW, School of Business 
 
+can coach on: | contact channels:
+------------- | -------------
+Innovation Thinking, Human Computer Interaction, AI Application szenarios, Socio Technical Systems | the #coaches channel of [slack](https://baselhack.slack.com/messages/C7J96CX4J)
+Software Engineeering & Design and Modeling,  Agile development | github user [juengls](https://github.com/juengls)
+Visualizations, Pitching | stephan.juengling@fhnw.ch
 
+Availability:
+  Saturday and Sunday during day
+________________________
 
 You are interested in the BaselHack, you have considerable experience in software development and/or the Basel area, and you would like to contribute in other ways than joining a single hacking team?
 
