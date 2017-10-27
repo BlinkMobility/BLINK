@@ -83,21 +83,22 @@ An ad-blocker for the real world. Create a mobile AR app or webpage which detect
 (Or replace the information with alternative messages or art.)
 
 **Tech resources:**
-Android vision API: https://developers.google.com/vision/text-overview
-Chrome text API: https://paul.kinlan.me/detecting-text-in-an-image/
-Tesseract: http://tesseract.projectnaptha.com/
-Browser OCR: https://kdzwinel.github.io/JS-OCR-demo/
-Browser based tracking: https://trackingjs.com/
+* Android vision API: https://developers.google.com/vision/text-overview
+* Chrome text API: https://paul.kinlan.me/detecting-text-in-an-image/
+* Tesseract: http://tesseract.projectnaptha.com/
+* Browser OCR: https://kdzwinel.github.io/JS-OCR-demo/
+* Browser based tracking: https://trackingjs.com/
 
 **Prior art:**
-https://www.wired.com/2015/01/adblock-real-life-adblock-real-life/
-https://creators.vice.com/en_us/article/3d5bg3/this-augmented-reality-app-blocks-advertisements-with-digital-art
+* https://www.wired.com/2015/01/adblock-real-life-adblock-real-life/
+* https://creators.vice.com/en_us/article/3d5bg3/this-augmented-reality-app-blocks-advertisements-with-digital-art
 
 ***
 
 ### Chat Visualiser
 **Problem:**
 Chat is utterly useless without a visualiser.
+
 ;)
 
   
@@ -107,12 +108,12 @@ An “online chat” web application that creates a realtime visual experience b
 
 **Data resources:**
 Any Content API, such as...
-OpenGLAM: https://opendata.swiss/de/organization/openglam?res_format=HTML
-https://www.flickr.com/services/api/explore/flickr.photos.search
-https://developers.google.com/youtube/v3/docs/search/list#try-it
-https://unsplash.com/developers
-https://www.pexels.com/api/
-https://www.pond5.com/free
+* OpenGLAM: https://opendata.swiss/de/organization/openglam?res_format=HTML
+* https://www.flickr.com/services/api/explore/flickr.photos.search
+* https://developers.google.com/youtube/v3/docs/search/list#try-it
+* https://unsplash.com/developers
+* https://www.pexels.com/api/
+* https://www.pond5.com/free
   
 
 ***
