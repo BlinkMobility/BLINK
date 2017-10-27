@@ -117,4 +117,32 @@ Any Content API, such as...
   
 
 ***
+**Internet of things / Serverless cloud computing - Kegbot I/O**
+
+Adobe’s project to be hacked is a fun educational project within the trending topics Internet of things and serverless cloud computing called the Kegbot I/O. 
+It demands your creativity and is challenging on various difficulty levels from low to high.
+
+**Current Setup:**
+The present setup at the hacking kick-off is a fully functional Kegbot which is a Kegerator (Zapfanlage) linked to an Arduino board and an Android tablet. Once you tap fluid, data is transferred to the linked tablet and is distributed to a slack channel. 
+
+**Challenge:**
+Your challenge will be to come up with new features and creative and valid use cases. You are free to hack whatever cool idea you come up with. 
+
+**FYI**
+*In addition we provide more sensors for your potential use case. 
+*We will have 2 coaches dedicated to this project helping you to get started and during the hack.
+*As all touchpoints are open source this makes it a perfect and fun project to hack at BaselHack!
+
+**Entry points for Hacking:**
+1. Leverage the available data in the server, collected by the open source kegbot library: https://kegbot.org/docs/api/
+2. Leverage Adobe I/O Runtime to run serverless functions (e.g. connector for the kegbot API in #1, webhook for kegbot events, web actions)
+3. Enhance Kegtab (Android app) with UI of the new feature
+   *Docs: https://github.com/Kegbot/kegboard
+   *Sources: https://github.com/Kegbot/kegbot-android
+   *Build tools: Android Studio - https://developer.android.com/studio/index.html 
+4. Hacking around Kegboard (IOT device) to collect more data (question)
+   *Docs: https://kegbot.org/docs/kegboard/
+   *Sources: https://github.com/Kegbot/kegboard
+   *Build tools: Arduino IDE - https://www.arduino.cc/en/Main/Software or PlatformIO - http://platformio.org/ 
+***
 -> complement with YOUR ideas: ...
