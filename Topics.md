@@ -141,7 +141,7 @@ in #1, webhook for kegbot events, web actions)
 * Docs: https://github.com/Kegbot/kegboard
 * Sources: https://github.com/Kegbot/kegbot-android
 * Build tools: Android Studio - https://developer.android.com/studio/index.html 
-4. Hacking around Kegboard (IOT device) to collect more data (question)
+4. Hacking around Kegboard (IOT device) to collect more data
 * Docs: https://kegbot.org/docs/kegboard/
 * Sources: https://github.com/Kegbot/kegboard
 * Build tools: Arduino IDE - https://www.arduino.cc/en/Main/Software or PlatformIO - http://platformio.org/ 
