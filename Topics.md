@@ -129,9 +129,9 @@ The present setup at the hacking kick-off is a fully functional Kegbot which is 
 Your challenge will be to come up with new features and creative and valid use cases. You are free to hack whatever cool idea you come up with. 
 
 **FYI**
-*In addition we provide more sensors for your potential use case. 
-*We will have 2 coaches dedicated to this project helping you to get started and during the hack.
-*As all touchpoints are open source this makes it a perfect and fun project to hack at BaselHack!
+* In addition we provide more sensors for your potential use case. 
+* We will have 2 coaches dedicated to this project helping you to get started and during the hack.
+* As all touchpoints are open source this makes it a perfect and fun project to hack at BaselHack!
 
 **Entry points for Hacking:**
 1. Leverage the available data in the server, collected by the open source kegbot library: https://kegbot.org/docs/api/
