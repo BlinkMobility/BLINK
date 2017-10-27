@@ -137,7 +137,7 @@ Your challenge will be to come up with new features and creative and valid use c
 1. Leverage the available data in the server, collected by the open source kegbot library: https://kegbot.org/docs/api/
 2. Leverage Adobe I/O Runtime to run serverless functions (e.g. connector for the kegbot API in #1, webhook for kegbot events, web actions)
 3. Enhance Kegtab (Android app) with UI of the new feature
-a. Docs: https://github.com/Kegbot/kegboard
+* Docs: https://github.com/Kegbot/kegboard
 b. Sources: https://github.com/Kegbot/kegbot-android
 c. Build tools: Android Studio - https://developer.android.com/studio/index.html 
 4. Hacking around Kegboard (IOT device) to collect more data (question)
