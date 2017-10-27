@@ -72,4 +72,26 @@ Team:
 * Quentin Garnier
 * ... you?  Join our team and clone the [repo](https://github.com/FUUbi/BaselStat).
 ***
+
+### They Live AR
+**Problem:**
+“The System” is turning our brains to mush with an overload of branding, advertisements and information in the public space. Can technology save us?
+https://www.youtube.com/watch?v=JI8AMRbqY6w
+
+**Proposed hack topic:**
+An ad-blocker for the real world. Create a mobile AR app or webpage which detects “information” such as text or branding and blocks it out.
+
+**Tech resources:**
+Android vision API: https://developers.google.com/vision/text-overview
+Chrome text API: https://paul.kinlan.me/detecting-text-in-an-image/
+Tesseract: http://tesseract.projectnaptha.com/
+Browser OCR: https://kdzwinel.github.io/JS-OCR-demo/
+Browser based tracking: https://trackingjs.com/
+
+**Prior art:**
+https://www.wired.com/2015/01/adblock-real-life-adblock-real-life/
+https://creators.vice.com/en_us/article/3d5bg3/this-augmented-reality-app-blocks-advertisements-with-digital-art
+
+
+***
 -> complement with YOUR ideas: ...
