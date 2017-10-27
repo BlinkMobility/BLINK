@@ -51,5 +51,25 @@ The city of Basel provides Radar data from more than 300 Streets. How many cars 
 **proposed hack topic:**
 There are different approaches. On one hand it is interesting to show the traffic situation graphically (for example categorisation of streets) and enable the inhabitants to choose a better route (kind of self-regulation). On the other hand, it is possible to improve the cantonal processes with software so that traffic can be better distributed through the city. More information at saturday :)
 
+## BaselStat - An Open Data Search Engine
+ 
+Nowadays, an enormous amount of data is generated every day. Unfortunately, this data is mostly available on different sources and stored in different file formats.
+ 
+ 
+We would like to create our own open data search engine with all available statistical data from the Kanton Basel Stadt.
+Thus, the exploration of these records should become easy and intuitive, as if one would be googeling any topic.
+ 
+ 
+The public API would allow other developers to create their own applications. Of course our frontend also retrieves its data from the public API.
+ 
+ 
+Additionally to our Web Application we would like to create a visualisation by using the Microsoft HoloLens.
+ 
+
+Team:
+* Denise Bauman
+* Fabrizio Parrillo
+* Quentin Garnier
+* ... you?  Join our team and clone the [repo](https://github.com/FUUbi/BaselStat).
 ***
 -> complement with YOUR ideas: ...
